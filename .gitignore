@@ -1,0 +1,35 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated plugin files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# VS Code
+.vscode/
+
+# Windows / OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+*.slnx
